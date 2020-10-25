@@ -12,4 +12,4 @@ A simple app for connecting the world:)
 
 ## 页面导图
 
-![名字](C:\Users\rocky\Desktop\Instant-Messaging-Android-Front-End\pagemind.png)
+![名字](\pagemind.png)
